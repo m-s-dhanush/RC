@@ -1,4 +1,4 @@
-module CA_1(clock,reset,CA_out);
+module CA_1(clock,reset,CA_out); //Code for CA_1
     input clock,reset; 
     output reg [24:1]CA_out; 
     
